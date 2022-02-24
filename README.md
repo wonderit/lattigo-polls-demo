@@ -19,4 +19,5 @@ cd server
 go run server.go
 ```
 
+Visit web client : http://localhost:8080/polls
 
