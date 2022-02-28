@@ -1,0 +1,1 @@
+nohup go run ./server.go > run_server.log &
